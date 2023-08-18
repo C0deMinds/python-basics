@@ -21,9 +21,9 @@ that would challenge his wit and courage.
 """)
 
 print("""
-As Alex delved deeper into the heart of the island, they encountered 
+As Alex delved deeper into the heart of the island, he encountered 
 ancient ruins, strange creatures, and cryptic puzzles. 
-Each step brought them closer to the truth behind the legend.
+Each step brought him closer to the truth behind the legend.
 """)
 
 print("""
