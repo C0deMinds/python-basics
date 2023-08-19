@@ -31,6 +31,3 @@ None other than {celebrity} himself!
 # Print the completed Mad Libs story
 print(f"\nMad Libs Story:\n{story}")
 print("Thank you for playing! Hope to see you again soon!")
-
-
-

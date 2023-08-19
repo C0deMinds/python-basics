@@ -1,5 +1,8 @@
 """
 Hangman Game
+
+There might be some new things that you don't recognize here, so don't be afraid to search up something you don't understand.
+You can also always message us if you have any questions!
 """
 
 word = "apple"
@@ -44,6 +47,3 @@ while not done:
     if "-" not in dashes:  # Checks if there is no more dashes (means they guessed all the letters)
         print("Congratulations! You got the word!")
         done = True
-
-
-
